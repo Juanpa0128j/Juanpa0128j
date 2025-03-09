@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.tenor.com/hjt3qRzJaJIAAAAj/colombia-flag.gif" alt="Colombian Flag Waving" width="200"/>
   <br>
-  <em>"Colombia: Home to the world's largest variety of butterflies, birds and second most biodiverse country on Earth, along with many other good things."</em>
+  <em>"Colombia is home to the world's largest variety of butterflies, birds and second most biodiverse country on Earth, along with many other good things."</em>
 </p>
 
 # Hi 👋, I'm Juan Pablo Mejía Gómez
