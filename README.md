@@ -16,14 +16,14 @@ Second-year student of Systems Engineering and Computer Science at the National 
 </h4>
 
 ## 📚 Education
-- **B.S. in Systems Engineering and Informatics** | Universidad Nacional de Colombia *(Expected: 2027)*
+- **B.S. in Systems Engineering and Informatics** | Universidad Nacional de Colombia *(In Course)*
   - Relevant Coursework: Data Structures, Algorithms, Machine Learning Fundamentals, Database Systems, and more...
  
 🏆 Certifications
 
-- [Deep Learning with PyTorch : Image Segmentation] - Coursera Project Network (June 2024)
-- [Neural Networks and Deep Learning] - DeepLearning.AI (June 2024)
-- [AWS Academy Graduate - AWS Academy Cloud Foundations] - Amazon Web Services Training and Certification (December 2023)
+- [Deep Learning with PyTorch : Image Segmentation] - Coursera Project Network 
+- [Neural Networks and Deep Learning] - DeepLearning.AI
+- [AWS Academy Graduate - AWS Academy Cloud Foundations] - Amazon Web Services Training and Certification
 
 and more...
 
