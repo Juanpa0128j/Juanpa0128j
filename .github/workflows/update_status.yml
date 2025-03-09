@@ -1,0 +1,44 @@
+name: Update GitHub Profile Status
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Runs every 5 minutes
+  workflow_dispatch:  # Allows manual execution
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Get Online Status
+        run: |
+          echo "![Online](https://img.shields.io/badge/status-online-green)" > README.md
+
+      - name: Get Discord Playing Status
+        run: |
+          DISCORD_STATUS=$(curl -s "https://discord.com/api/v9/users/{759506955180965908}/profile" -H "Authorization: Bot ${{ secrets.DISCORD_BOT_TOKEN }}" | jq -r '.user.presence.activities[0].name')
+          if [[ "$DISCORD_STATUS" == "null" ]]; then
+            DISCORD_STATUS="Not Playing"
+          fi
+          echo "![Playing](https://img.shields.io/badge/Playing-${DISCORD_STATUS}-blue)" >> README.md
+
+      - name: Get Recent GitHub Activity
+        run: |
+          CODING_STATUS=$(curl -s "https://api.github.com/users/Juanpa0128j/events" | jq -r 'map(select(.type=="PushEvent")) | .[0].created_at')
+          if [[ "$CODING_STATUS" == "null" ]]; then
+            CODING_STATUS="No Recent Commits"
+          fi
+          echo "![Coding](https://img.shields.io/badge/Coding-${CODING_STATUS}-orange)" >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated Profile Status" || exit 0
+          git push
