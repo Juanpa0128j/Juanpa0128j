@@ -11,9 +11,6 @@
 
 # Hi 👋, I'm Juan Pablo Mejía Gómez
 
-![Online](https://img.shields.io/badge/status-online-green)
-![Coding](https://img.shields.io/badge/Coding-Loading...-orange)
-
 <h4 align="justify">
 Second-year student of Systems Engineering and Computer Science at the National University of Colombia, deeply committed to academic excellence and professional growth. My passion lies in Artificial Intelligence and its subfields, including Machine Learning, Deep Learning, and Computer Vision. Additionally, I have a keen interest in Data Science and Big Data. I aim to develop innovative AI solutions that solve real-world problems.
 </h4>
