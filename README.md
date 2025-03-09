@@ -4,6 +4,11 @@
   <em>"Colombia is home to the world's largest variety of butterflies, birds and second most biodiverse country on Earth, along with many other good things."</em>
 </p>
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quotes Card" />
+</p>
+
 # Hi 👋, I'm Juan Pablo Mejía Gómez
 
 <h4 align="justify">
@@ -100,8 +105,3 @@ Planning on more stuff....
 ## 💬 Let's Collaborate!
 I'm always open to collaborating on interesting projects, especially in AI and data science. 
 Feel free to reach out if you're looking for a teammate for hackathons, research projects, or open-source contributions!
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quotes Card" />
-</p>
