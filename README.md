@@ -20,6 +20,9 @@ and more...
 
 ## 💻 Notable Projects
 
+### [Multi-Agent Marketing Assistant] | [Python, LangChain, LangGraph, FastAPI, Chainlit]
+A modular multi-agent system that orchestrates specialized AI agents for marketing analytics, content strategy, and project management. The system features dynamic agent routing, collaborative workflows through shared memory, and a clean API interface. Each agent (AnalyticsWiz, ContentGenius, ProjectManager) specializes in different marketing domains and can access relevant data sources. The architecture supports traceability, reproducibility, and extensibility through prompt versioning and a well-organized codebase.
+
 ### [Lease Abstractor] | [Python, RAG, LangChain, ...] 
 A data extraction tool that focuses on extracting explicit data from Commercial Real Estate Lease Agreements. In collaboration with [@marco](https://github.com/camachomarco) as a freelancer.
 
