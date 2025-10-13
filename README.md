@@ -26,13 +26,16 @@ and more...
 
 ## 💻 Notable Projects
 
+### [Detecting Tuberculosis in X-Rays - Datacamp Challenge] | [Python, Transfer Learning, Computer Vision, Optuna, MLFlow, Scikit-Learn, CNNs]
+
+
 ### [Medical AI Dashboard - XGBoost Literature Classification] | [Python, Next.js, Flask, V0, Scikit-Learn, XGBoost]
-A data-centric project developed for an AI Data Challenge, focused on automating data preprocessing, feature engineering, and model evaluation for tabular datasets. The pipeline leverages Scikit-Learn and XGBoost to benchmark multiple models efficiently, visualize key metrics, and generate insights through a clean, interactive dashboard built with Next.js and Flask.
+An applied deep learning project focused on detecting tuberculosis (TB) in chest X-ray images using CNNs and transfer learning (ResNet, DenseNet, EfficientNet). The work includes comprehensive data analysis, image quality assessment, and clinical-oriented metrics such as sensitivity, specificity, and predictive values. Designed as an AI-assisted screening tool, it demonstrates the potential of computer vision in medical diagnostics, emphasizing interpretability, model evaluation, and scalability for low-resource healthcare environments. This is the link to the actual notebook: https://www.datacamp.com/datalab/w/25e1e2f8-42e9-4e9a-b963-c51c778e3e77
 
 ### [Multi-Agent Marketing Assistant] | [Python, LangChain, LangGraph, FastAPI, Chainlit]
-A modular multi-agent system that orchestrates specialized AI agents for marketing analytics, content strategy, and project management. The system features dynamic agent routing, collaborative workflows through shared memory, and a clean API interface. Each agent (AnalyticsWiz, ContentGenius, ProjectManager) specializes in different marketing domains and can access relevant data sources. The architecture supports traceability, reproducibility, and extensibility through prompt versioning and a well-organized codebase.
+A modular multi-agent system that orchestrates specialized AI agents for marketing analytics, content strategy, and project management. The system features dynamic agent routing, collaborative workflows through shared memory, and a clean API interface. Each agent (AnalyticsWiz, ContentGenius, ProjectManager) specializes in different marketing domains and can access relevant data sources. The architecture supports traceability, reproducibility, and extensibility through prompt versioning and a well-organized codebase. Check it out here: https://github.com/Juanpa0128j/multi_agent_workflow
 
-### [Lease Abstractor] | [Python, RAG, LangChain, ...] 
+### [Lease Abstractor] | [Python, RAG, LangChain, AWS, and more] 
 A data extraction tool that focuses on extracting explicit data from Commercial Real Estate Lease Agreements. In collaboration with [@marco](https://github.com/camachomarco) as a freelancer.
 
 ### [Stocks Visualizer] | [Python, Django, HTML] 
