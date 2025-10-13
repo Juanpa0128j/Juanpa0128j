@@ -42,18 +42,6 @@ Planning on more stuff....
 
 ## 🛠 Technical Skills
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp,php)](https://skillicons.dev)
-
-### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,react,nextjs,django,flask,bootstrap,tailwind)](https://skillicons.dev)
-
-### Data Science & AI
-[![My Skills](https://skillicons.dev/icons?i=sklearn,opencv)](https://skillicons.dev)
-
-### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,linux,aws,mysql,arduino)](https://skillicons.dev)
-
 ## 🌱 Currently Learning
 - Production and DevOps
 - DL and ML
