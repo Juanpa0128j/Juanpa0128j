@@ -6,9 +6,9 @@ Student of Systems Engineering and Computer Science at the National University o
 
 ## 🎖️ Competitions & Achievements
 
-- AI Data Challenge (Source Meridian 2025) — Team-based competition focused on building an end-to-end machine learning pipeline for real-world datasets. Our team achieved 2nd place overall, developing a robust classification system using XGBoost and automated data processing techniques.
+- **AI Data Challenge (Source Meridian 2025)**: It was a team-based competition focused on building an end-to-end machine learning pipeline for real-world datasets. Our team achieved 2nd place overall, developing a robust classification system using XGBoost and automated data processing techniques.
 
-- Training Camp Medellín 2024 – Competitive Programming (EAFIT) — Intensive programming and algorithmic problem-solving camp designed to enhance computational thinking and efficiency in coding under pressure. Participated representing Universidad Nacional de Colombia, strengthening algorithmic and teamwork skills.
+- **Training Camp Medellín about Competitive Programming (EAFIT 2024)**: Intensive programming and algorithmic problem-solving camp designed to enhance computational thinking and efficiency in coding under pressure. Participated representing Universidad Nacional de Colombia, strengthening algorithmic and teamwork skills.
 
 ## 📚 Education
 - **B.S. in Systems Engineering and Informatics** | Universidad Nacional de Colombia *(In Course)*
