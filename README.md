@@ -4,11 +4,17 @@
 Student of Systems Engineering and Computer Science at the National University of Colombia, deeply committed to academic excellence and professional growth. My passion lies in Artificial Intelligence and its subfields, including Machine Learning, Deep Learning, and Computer Vision. Additionally, I have a keen interest in Data Science and Big Data. I aim to develop innovative AI solutions that solve real-world problems.
 </h4>
 
+## 🎖️ Competitions & Achievements
+
+- AI Data Challenge (Source Meridian 2025) — Team-based competition focused on building an end-to-end machine learning pipeline for real-world datasets. Our team achieved 2nd place overall, developing a robust classification system using XGBoost and automated data processing techniques.
+
+- Training Camp Medellín 2024 – Competitive Programming (EAFIT) — Intensive programming and algorithmic problem-solving camp designed to enhance computational thinking and efficiency in coding under pressure. Participated representing Universidad Nacional de Colombia, strengthening algorithmic and teamwork skills.
+
 ## 📚 Education
 - **B.S. in Systems Engineering and Informatics** | Universidad Nacional de Colombia *(In Course)*
   - Relevant Coursework: Data Structures, Algorithms, Machine Learning Fundamentals, Database Systems, and more...
  
-🏆 Certifications
+ Certifications
 
 - [Deep Learning with PyTorch : Image Segmentation] - Coursera Project Network 
 - [Neural Networks and Deep Learning] - DeepLearning.AI
@@ -19,6 +25,9 @@ and more...
 [Check at all my certifications on Linkedin](https://www.linkedin.com/in/juan-pablo-mej%C3%ADa-g%C3%B3mez-712512231/details/certifications/)
 
 ## 💻 Notable Projects
+
+### [Medical AI Dashboard - XGBoost Literature Classification] | [Python, Next.js, Flask, V0, Scikit-Learn, XGBoost]
+A data-centric project developed for an AI Data Challenge, focused on automating data preprocessing, feature engineering, and model evaluation for tabular datasets. The pipeline leverages Scikit-Learn and XGBoost to benchmark multiple models efficiently, visualize key metrics, and generate insights through a clean, interactive dashboard built with Next.js and Flask.
 
 ### [Multi-Agent Marketing Assistant] | [Python, LangChain, LangGraph, FastAPI, Chainlit]
 A modular multi-agent system that orchestrates specialized AI agents for marketing analytics, content strategy, and project management. The system features dynamic agent routing, collaborative workflows through shared memory, and a clean API interface. Each agent (AnalyticsWiz, ContentGenius, ProjectManager) specializes in different marketing domains and can access relevant data sources. The architecture supports traceability, reproducibility, and extensibility through prompt versioning and a well-organized codebase.
@@ -45,16 +54,10 @@ Planning on more stuff....
 ### Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,linux,aws,mysql,arduino)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanpa0128j&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
 ## 🌱 Currently Learning
-- Advanced techniques for Computer Vision
-- Cloud computing architecture and deployment
 - Production and DevOps
+- DL and ML
+- Agents
 
 ## 🌍 Connect With Me
 
@@ -66,10 +69,6 @@ Planning on more stuff....
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
 </p>
-
-## 💬 Let's Collaborate!
-I'm always open to collaborating on interesting projects, especially in AI and data science. 
-Feel free to reach out if you're looking for a teammate for hackathons, research projects, or open-source contributions!
 
 <p align="center">
   <img src="https://media.tenor.com/hjt3qRzJaJIAAAAj/colombia-flag.gif" alt="Colombian Flag Waving" width="200"/>
