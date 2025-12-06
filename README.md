@@ -6,12 +6,14 @@ Systems and Computer Science Engineer at the National University of Colombia, de
 
 ## 🎖️ Competitions & Achievements
 
+- **Ecosistema de Datos (MinTIC 2025)**: Team project focused on building a fully reproducible pipeline to process and analyze 330k crime records across Santander. Worked with forecasting (Prophet, SARIMA), spatial hotspot detection (DBSCAN, KDE), and XGBoost for risk classification, delivering dashboards and actionable insights for public safety.
+
 - **AI Data Challenge (Source Meridian 2025)**: It was a team-based competition focused on building an end-to-end machine learning pipeline for real-world datasets. Our team achieved 2nd place overall, developing a robust classification system using XGBoost and automated data processing techniques.
 
 - **Training Camp Medellín about Competitive Programming (EAFIT 2024)**: Intensive programming and algorithmic problem-solving camp designed to enhance computational thinking and efficiency in coding under pressure. Participated representing Universidad Nacional de Colombia, strengthening algorithmic and teamwork skills.
 
 ## 📚 Education
-- **B.S. in Systems Engineering and Informatics** | Universidad Nacional de Colombia *(In Course)*
+- **B.S. in Systems Engineering and Informatics** | Universidad Nacional de Colombia *(2027)*
   - Relevant Coursework: Data Structures, Algorithms, Machine Learning Fundamentals, Database Systems, and more...
  
  Certifications
@@ -25,6 +27,9 @@ and more...
 [Check at all my certifications on Linkedin](https://www.linkedin.com/in/juan-pablo-mej%C3%ADa-g%C3%B3mez-712512231/details/certifications/)
 
 ## 💻 Notable Projects
+
+### [Smart Public Safety Solution for Santander] | [PowerBI, Python, LangChain, scikit-learn, SODA API, ChromaDB, xgboost, prophet, sentence-transformers, Flask, ...]
+We designed and implemented a reusable end-to-end data workflow from extraction and quality repair to parsing, feature engineering, and efficient dataset generation. The pipeline outputs structured Parquet files with metadata, ensuring reproducibility, transparency, and ease of scaling. Every step, model, and transformation remains tracked in-repo for auditability and extension. The project brings together time-series forecasting, spatial analytics, and machine learning into a single solution aimed at public safety intelligence. The dashboards make patterns and hotspots digestible, while the RAG component enables document-aware LLM querying. In short: data engineering + analytics + modeling + RAG, integrated into one coherent and scalable system for real-world decision-making. Check it out here: [LinkedIn post](https://www.linkedin.com/posts/juan-pablo-mej%C3%ADa-g%C3%B3mez-712512231_im-excited-to-share-a-project-that-we-built-activity-7400656675810004992-xCje?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnrLn4B841nLE0wWwNkGDLL0yY2a86ETMI)
 
 ### [Automated Defect Detection for IMUSA] | [Python, Computer Vision, Deep Learning, SICK AI Camera]
 Developed as part of the Special Academic Project at Universidad Nacional de Colombia, this initiative aimed to build an automated defect detection system for the metal sheets used in frying pan production at IMUSA. In collaboration with INTECOL S.A.S, and under the guidance of PhD. John W. Branch and Engineer Martín Aguilar Muñoz, we implemented a computer vision pipeline integrated with a SICK AI-powered industrial camera.
@@ -44,8 +49,6 @@ A modular multi-agent system that orchestrates specialized AI agents for marketi
 A data extraction tool that focuses on extracting explicit data from Commercial Real Estate Lease Agreements. In collaboration with [@marco](https://github.com/camachomarco) as a freelancer.
 
 Planning on more stuff....
-
-## 🛠 Technical Skills
 
 ## 🌱 Currently Learning
 - Production and DevOps
