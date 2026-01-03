@@ -4,6 +4,8 @@
 Systems and Computer Science Engineer at the National University of Colombia, deeply committed to academic excellence and professional growth. My passion lies in Artificial Intelligence and its subfields, including Machine Learning, Deep Learning, and Computer Vision. Additionally, I have a keen interest in Data Science and Big Data. I aim to develop innovative AI solutions that solve real-world problems.
 </h4>
 
+Currently working at [ReshapeX](https://www.reshapex.com/)!
+
 ## 🎖️ Competitions & Achievements
 
 - **Ecosistema de Datos (MinTIC 2025)**: Team project focused on building a fully reproducible pipeline to process and analyze 330k crime records across Santander. Worked with forecasting (Prophet, SARIMA), spatial hotspot detection (DBSCAN, KDE), and XGBoost for risk classification, delivering dashboards and actionable insights for public safety.
