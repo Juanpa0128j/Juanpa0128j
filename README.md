@@ -28,8 +28,7 @@ and more...
 
 ## 💻 Notable Projects
 
-### 
-[Full-Stack Management System | Dogo-Onsen] | [TypeScript, Python, FastAPI, Next.js, PostgreSQL, Alembic, pytest, Vitest, k6, Playwright, ...]
+### [Full-Stack Management System | Dogo-Onsen] | [TypeScript, Python, FastAPI, Next.js, PostgreSQL, Alembic, pytest, Vitest, k6, Playwright, ...]
 We designed and built a production-ready, full-stack hospitality management platform to modernize operations for a traditional spa and hotel. The system covers reservations, services, inventory, and employee workflows end to end, with strict performance and security guarantees. The solution combines a Next.js + TypeScript frontend with role-based access control and approval workflows, and an async FastAPI backend backed by PostgreSQL, Docker, and Alembic. We implemented concurrency-safe booking logic, real-time availability checks, and robust CRUD APIs across all core domains. Quality and performance were first-class: unit, integration, E2E, and load testing validate both user flows and system limits, keeping latency within tight bounds under load. In short: modern frontend + async backend + strong auth + concurrency control + rigorous testing, integrated into a scalable hospitality operations system ready for real-world use. Check it out here: [LinkedIn post](https://www.linkedin.com/posts/juan-pablo-mej%C3%ADa-g%C3%B3mez-712512231_we-built-a-full-stack-hospitality-management-activity-7405249717279825920-Kd1E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnrLn4B841nLE0wWwNkGDLL0yY2a86ETMI)
 
 ### [Smart Public Safety Solution for Santander] | [PowerBI, Python, LangChain, scikit-learn, SODA API, ChromaDB, xgboost, prophet, sentence-transformers, Flask, ...]
