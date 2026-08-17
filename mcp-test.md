@@ -1,1 +1,0 @@
-MCP tool test file — create_or_update_file verified.
