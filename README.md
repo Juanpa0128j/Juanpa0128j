@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-pablo-mej%C3%ADa-g%C3%B3mez-712512231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://juanpa0128j.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D7A5C?style=for-the-badge&logo=firefox&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.reshapex.com/"><img src="https://img.shields.io/badge/ReshapeX-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:juanpa0128j@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -161,12 +161,12 @@ RAG-based data extraction tool pulling explicit terms from Commercial Real Estat
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Juanpa0128j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0D7A5C&icon_color=0D7A5C&text_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Juanpa0128j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0D7A5C&icon_color=0D7A5C&text_color=FFFFFF" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Juanpa0128j&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D7A5C&ring=0D7A5C&fire=C98A16&currStreakLabel=FFFFFF" />
 </div>
 
 <div align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanpa0128j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D7A5C&text_color=FFFFFF&langs_count=8" />
+  <img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Juanpa0128j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D7A5C&text_color=FFFFFF&langs_count=8" />
 </div>
 
 ---
