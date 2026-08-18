@@ -162,7 +162,6 @@ RAG-based data extraction tool pulling explicit terms from Commercial Real Estat
 
 <div align="center">
   <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Juanpa0128j&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0D7A5C&icon_color=0D7A5C&text_color=FFFFFF" />
-  <img height="195" src="https://streak-stats.demolab.com/?user=Juanpa0128j&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D7A5C&ring=0D7A5C&fire=C98A16&currStreakLabel=FFFFFF" />
 </div>
 
 <div align="center">
